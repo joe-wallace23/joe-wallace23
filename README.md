@@ -32,7 +32,7 @@ Programming languages:
   Personal Web Development Blog
 https://oceans.hashnode.dev/
 
-   ![hashnode_200x200](https://user-images.githubusercontent.com/60151170/154789205-3b1442ee-51cd-4119-9e22-75dd1ff62a48.png)
+   
  </td>
   
   </table>
