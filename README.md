@@ -14,20 +14,18 @@ Hello, This is Joseph Wallace  <img src="https://github.com/TheDudeThatCode/TheD
  </tr>
 </table>
 
-Programming languages:
+Programming languages and Frameworks:
+
+![html5](https://user-images.githubusercontent.com/60151170/158027823-6041d00c-a7c6-4545-9209-857285d3055b.svg) HTML
+![css3](https://user-images.githubusercontent.com/60151170/158027831-b19e1b7b-fd4d-429c-bddf-a2677220a213.svg) CSS3
+![sass](https://user-images.githubusercontent.com/60151170/158027777-210a9fe1-6423-48a6-8795-8a3b0c2b8bf1.svg) SASS
+![javascript](https://user-images.githubusercontent.com/60151170/158027854-dac9bce1-e8db-4962-9908-481da200dcf0.svg) JavaScript
+![bootstrap](https://user-images.githubusercontent.com/60151170/158027868-575608b2-d03b-4c4d-ba05-31a0befd24b9.svg) Bootstrap
+![nodemon](https://user-images.githubusercontent.com/60151170/158027873-8cb2831d-14bc-4482-9714-9215a1c3f35b.svg) Nodemon
+![node-dot-js](https://user-images.githubusercontent.com/60151170/158027880-f1b4308b-7955-4eff-a15d-193fc0fefa70.svg) Node.js
+![mongodb](https://user-images.githubusercontent.com/60151170/158027887-667921b5-03d6-432c-ae59-498b3795b2ce.svg)  MongoDB
 
 
-![1200px-HTML5_logo_and_wordmark svg_228x228 (1)](https://user-images.githubusercontent.com/60151170/154166548-469306bd-e2f8-4470-822b-e8b1e0713af8.png) HTML ![919826_228x228](https://user-images.githubusercontent.com/60151170/154167399-6e7cb418-d8f8-4efc-9085-405e8d84bede.png) CSS  ![download_228x171](https://user-images.githubusercontent.com/60151170/154167543-15e800e1-457b-46e9-80cc-fdc411c2e5be.png) SASS ![2048px-Unofficial_JavaScript_logo_2 svg_228x228](https://user-images.githubusercontent.com/60151170/154167669-e68447e6-8e2b-4c61-9757-1a7ff345673e.png) JavaScript ![1_9HanDsRU11ZMsgDGJwN96w_227x191](https://user-images.githubusercontent.com/60151170/154167883-ea94dcb3-399f-4be3-8f58-048fb56f2d5a.png) Bootstrap 
-
-![mdb_228x228](https://user-images.githubusercontent.com/60151170/154168138-444f199a-8a9e-4bea-bd3f-19e203c79f4c.png) MongoDb
-<br>
-<br>
-<br>
-<br>
-<br>
- 
- <table>
-  
  <td valign="center">
   Personal Web Development Blog
 https://oceans.hashnode.dev/
@@ -35,7 +33,7 @@ https://oceans.hashnode.dev/
    
  </td>
   
-  </table>
+  
  
 
 
