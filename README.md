@@ -30,6 +30,9 @@ Programming languages and Frameworks:
   Personal Web Development Blog
 https://oceans.hashnode.dev/
 
+Personal Web Development Blog
+https://medium.com/@joeywallace3005/
+
    
  </td>
   
