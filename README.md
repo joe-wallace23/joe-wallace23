@@ -37,7 +37,8 @@ Programming languages and Frameworks:
 
 
 
-![Add a little bit of body text (4)_346x461](https://user-images.githubusercontent.com/60151170/179804781-fb517956-5b41-4d0a-9bc7-5a3eb3738e88.png) 
+![Add a little bit of body text (4)_346x461](https://user-images.githubusercontent.com/60151170/179804781-fb517956-5b41-4d0a-9bc7-5a3eb3738e88.png) ![Add a subheading_346x461](https://user-images.githubusercontent.com/60151170/179817640-80370a4c-e86c-47eb-ac23-22d722f82464.png)
+
 
   
   
