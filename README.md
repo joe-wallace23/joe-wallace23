@@ -17,7 +17,7 @@
  </tr>
 </table>
 
-Personal Web Development Blog
+Personal Web Development Blogs
 https://oceans.hashnode.dev/ <br>
 
 https://medium.com/@joeywallace3005/
