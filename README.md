@@ -19,7 +19,6 @@
 
 <h2>Personal Web Development Blogs</h2>
 https://oceans.hashnode.dev/ <br>
-
 https://medium.com/@joeywallace3005/
 
 <h2>Contact Information:</h2>
