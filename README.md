@@ -17,17 +17,18 @@
  </tr>
 </table>
 
-Personal Web Development Blogs
+<h2>Personal Web Development Blogs</h2>
 https://oceans.hashnode.dev/ <br>
 
 https://medium.com/@joeywallace3005/
 
-Contact Information: <br>
+<h2>Contact Information:</h2>
+
 ![gmail](https://user-images.githubusercontent.com/60151170/179843885-78e60878-7460-4233-9130-93fbff095204.svg)
        gmail: joewallace715@gmail.com
 
+<h2>Programming languages and Frameworks:</h2>
 
-Programming languages and Frameworks:
 
 ![html5](https://user-images.githubusercontent.com/60151170/158027823-6041d00c-a7c6-4545-9209-857285d3055b.svg)
 ![css3](https://user-images.githubusercontent.com/60151170/158027831-b19e1b7b-fd4d-429c-bddf-a2677220a213.svg)
