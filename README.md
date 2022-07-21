@@ -24,7 +24,7 @@
 <li>https://medium.com/@joeywallace3005/</li>
 </ul>
 
-<h2>Roadmap of being a Software Engineer</h2>
+<h2>Roadmaps of being great Software Engineer</h2>
 https://neuton.app/Wallace?tab=map
 
 <h2>Contact Information:</h2>
