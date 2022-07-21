@@ -18,8 +18,11 @@
 </table>
 
 <h2>Personal Web Development Blogs</h2>
-https://oceans.hashnode.dev/ <br>
-https://medium.com/@joeywallace3005/
+
+<ul>
+<li>https://oceans.hashnode.dev/</li>
+<li>https://medium.com/@joeywallace3005/</li>
+</ul>
 
 <h2>Contact Information:</h2>
 
