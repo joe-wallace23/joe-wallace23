@@ -29,8 +29,7 @@ https://neuton.app/Wallace?tab=map
 
 <h2>Contact Information:</h2>
 
-![gmail](https://user-images.githubusercontent.com/60151170/179843885-78e60878-7460-4233-9130-93fbff095204.svg)
-       gmail: joewallace715@gmail.com
+📩 gmail: joewallace715@gmail.com
 
 <h2>Programming languages and Frameworks:</h2>
 
