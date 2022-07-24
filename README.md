@@ -17,6 +17,24 @@
  </tr>
 </table>
 
+<h2>Programming languages and Frameworks:</h2>
+
+
+<a href="https://www.w3schools.com/html/" >![html5](https://user-images.githubusercontent.com/60151170/158027823-6041d00c-a7c6-4545-9209-857285d3055b.svg)</a>
+<a href="https://www.w3schools.com/css/" >![css3](https://user-images.githubusercontent.com/60151170/158027831-b19e1b7b-fd4d-429c-bddf-a2677220a213.svg)</a>
+<a href="https://sass-lang.com/" >![sass](https://user-images.githubusercontent.com/60151170/158027777-210a9fe1-6423-48a6-8795-8a3b0c2b8bf1.svg)</a>
+<a href="https://www.w3schools.com/js/" >![javascript](https://user-images.githubusercontent.com/60151170/158027854-dac9bce1-e8db-4962-9908-481da200dcf0.svg)</a>
+<a href="https://getbootstrap.com/" >![bootstrap](https://user-images.githubusercontent.com/60151170/158027868-575608b2-d03b-4c4d-ba05-31a0befd24b9.svg)</a>
+<a href="https://www.npmjs.com/package/nodemon" >![nodemon](https://user-images.githubusercontent.com/60151170/158027873-8cb2831d-14bc-4482-9714-9215a1c3f35b.svg)</a>
+<a href="https://nodejs.org/en/" >![node-dot-js](https://user-images.githubusercontent.com/60151170/158027880-f1b4308b-7955-4eff-a15d-193fc0fefa70.svg)</a>
+<a href="https://www.mongodb.com/" >![mongodb](https://user-images.githubusercontent.com/60151170/158027887-667921b5-03d6-432c-ae59-498b3795b2ce.svg)</a>
+
+
+
+
+
+![Add a little bit of body text (4)_346x461](https://user-images.githubusercontent.com/60151170/179804781-fb517956-5b41-4d0a-9bc7-5a3eb3738e88.png) ![Add a subheading_346x461](https://user-images.githubusercontent.com/60151170/179817640-80370a4c-e86c-47eb-ac23-22d722f82464.png)
+
 <h2>Personal Web Development Blogs</h2>
 
 <ul>
@@ -39,23 +57,7 @@ https://neuton.app/Wallace?tab=map
 
 
 
-<h2>Programming languages and Frameworks:</h2>
 
-
-<a href="https://www.w3schools.com/html/" >![html5](https://user-images.githubusercontent.com/60151170/158027823-6041d00c-a7c6-4545-9209-857285d3055b.svg)</a>
-<a href="https://www.w3schools.com/css/" >![css3](https://user-images.githubusercontent.com/60151170/158027831-b19e1b7b-fd4d-429c-bddf-a2677220a213.svg)</a>
-<a href="https://sass-lang.com/" >![sass](https://user-images.githubusercontent.com/60151170/158027777-210a9fe1-6423-48a6-8795-8a3b0c2b8bf1.svg)</a>
-<a href="https://www.w3schools.com/js/" >![javascript](https://user-images.githubusercontent.com/60151170/158027854-dac9bce1-e8db-4962-9908-481da200dcf0.svg)</a>
-<a href="https://getbootstrap.com/" >![bootstrap](https://user-images.githubusercontent.com/60151170/158027868-575608b2-d03b-4c4d-ba05-31a0befd24b9.svg)</a>
-<a href="https://www.npmjs.com/package/nodemon" >![nodemon](https://user-images.githubusercontent.com/60151170/158027873-8cb2831d-14bc-4482-9714-9215a1c3f35b.svg)</a>
-<a href="https://nodejs.org/en/" >![node-dot-js](https://user-images.githubusercontent.com/60151170/158027880-f1b4308b-7955-4eff-a15d-193fc0fefa70.svg)</a>
-<a href="https://www.mongodb.com/" >![mongodb](https://user-images.githubusercontent.com/60151170/158027887-667921b5-03d6-432c-ae59-498b3795b2ce.svg)</a>
-
-
-
-
-
-![Add a little bit of body text (4)_346x461](https://user-images.githubusercontent.com/60151170/179804781-fb517956-5b41-4d0a-9bc7-5a3eb3738e88.png) ![Add a subheading_346x461](https://user-images.githubusercontent.com/60151170/179817640-80370a4c-e86c-47eb-ac23-22d722f82464.png)
 
 
   
