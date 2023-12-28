@@ -47,10 +47,6 @@ https://neuton.app/Wallace?tab=map
 
 <h2>Contact Information:</h2>
 
-📩 gmail: joewallace715@gmail.com
-
-<a href="https://www.facebook.com/joe.wallace.714049/">![facebook](https://user-images.githubusercontent.com/60151170/180659498-dd1f72c5-00d6-4bff-83fc-9cb42e78d9f6.svg)</a>
-<a href="https://www.instagram.com/childish_3005/"> ![instagram](https://user-images.githubusercontent.com/60151170/180659499-77511a9f-d67e-4e43-91ca-dc3a64a64544.svg)</a>
 <a href="https://www.linkedin.com/in/joey-wallace/">![linkedin](https://user-images.githubusercontent.com/60151170/180659510-5cf07913-040e-4d46-a5e1-ffed457ace7e.svg)</a>
  
 
